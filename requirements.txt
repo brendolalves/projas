@@ -10,6 +10,7 @@ beautifulsoup4
 pandas
 transformers
 emoji
+torch (PyTorch)
 
 # Bibliotecas de Geração de Relatório em PDF (entrada_saida_grafico_.py)
 reportlab
