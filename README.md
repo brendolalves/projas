@@ -58,4 +58,4 @@ pip install -r requirements.txt
 
 **Ou manualmente:**
 ```bash
-pip install pandas transformers requests beautifulsoup4 reportlab pillow zoneinfo-py flask
+pip install pandas transformers requests beautifulsoup4 reportlab pillow zoneinfo-py flask torch
